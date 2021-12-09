@@ -1,0 +1,30 @@
+.data {
+    display: flex;
+    flex-direction:column;
+}
+
+.concepts {
+    display: flex;
+    flex-direction: column;
+}
+
+.entry {
+    display: flex;
+    flex-direction: column;
+}
+
+.mood {
+    display: flex;
+    flex-direction: column;
+}
+
+.listentry {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
